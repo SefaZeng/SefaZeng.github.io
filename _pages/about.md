@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Bio
 ======
 I am Application Researcher/Machine Learning Engineer at WeChat AI. Mainly focus on Natural Language Processing and Multilingual Machine Translation. I received my Master's Degree from Peking University. I am looking for a PhD position in Natural Language Processing.
