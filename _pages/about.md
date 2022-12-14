@@ -31,8 +31,8 @@ Work experience
 
 Publications
 ======
-* Xianfeng Zeng, Yijin Liu, Ernan Li, Qiu Ran, Fandong Meng, Peng Li, Jinan Xu, Jie Zhou. WeChat Neural Machine Translation Systems for WMT21. In Proceedings of the Sixth Conference on Machine Translation (WMT21). [paper](https://aclanthology.org/2021.wmt-1.23/)
-* Fandong Meng, Jianhao Yan, Yijin Liu, Yuan Gao, Xianfeng Zeng, Qinsong Zeng, Peng Li, Ming Chen, Jie Zhou, Sifan Liu, Hao Zhou. WeChat Neural Machine Translation Systems for WMT20. In Proceedings of the Fifth Conference on Machine Translation (WMT20), November 19-20. [paper](https://aclanthology.org/2020.wmt-1.24/)
+* **Xianfeng Zeng**, Yijin Liu, Ernan Li, Qiu Ran, Fandong Meng, Peng Li, Jinan Xu, Jie Zhou. WeChat Neural Machine Translation Systems for WMT21. In Proceedings of the Sixth Conference on Machine Translation (WMT21). [paper](https://aclanthology.org/2021.wmt-1.23/)
+* Fandong Meng, Jianhao Yan, Yijin Liu, Yuan Gao, **Xianfeng Zeng**, Qinsong Zeng, Peng Li, Ming Chen, Jie Zhou, Sifan Liu, Hao Zhou. WeChat Neural Machine Translation Systems for WMT20. In Proceedings of the Fifth Conference on Machine Translation (WMT20), November 19-20. [paper](https://aclanthology.org/2020.wmt-1.24/)
   
 Honors
 ======
