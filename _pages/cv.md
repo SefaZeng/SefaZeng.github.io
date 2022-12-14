@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Energy and Power Engineering, Chongqiong University, 2013-2017
+* M.S. in Software Engineering, Peking University, 2017-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Application Researcher at Pattern Recognition Center, WeChat, Tencent.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  2020/06 - now 
+
+* Intern at Pattern Recognition Center, WeChat, Tencent.
+
+  2019/02 - 2020/06
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Xianfeng Zeng, Yijin Liu, Ernan Li, Qiu Ran, Fandong Meng, Peng Li, Jinan Xu, Jie Zhou. WeChat Neural Machine Translation Systems for WMT21. In Proceedings of the Sixth Conference on Machine Translation (WMT21). [paper](https://aclanthology.org/2021.wmt-1.23/)
+* Fandong Meng, Jianhao Yan, Yijin Liu, Yuan Gao, Xianfeng Zeng, Qinsong Zeng, Peng Li, Ming Chen, Jie Zhou, Sifan Liu, Hao Zhou. WeChat Neural Machine Translation Systems for WMT20. In Proceedings of the Fifth Conference on Machine Translation (WMT20), November 19-20. [paper](https://aclanthology.org/2020.wmt-1.24/)
   
-Talks
+Honors
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Champion of WMT21 news translation task on English->Chinese, 2021
+* Champion of WMT20 news translation task on Chinese->English, 2020
