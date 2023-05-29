@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-I am Application Researcher/Machine Learning Engineer at WeChat AI. Mainly focus on Natural Language Processing and Machine Translation. I received my Master's Degree from Peking University. I recently shifted my focus to very deep Transformer and multilingual machine transaltion.
+I am Application Researcher/Machine Learning Engineer at WeChat AI. Mainly focus on Multilingual Machine Translation and Deep Transformer. I received my Master's Degree from Peking University. I recently shifted my focus to the evaluation of the capability of Large Language Model (LLM) and translation with LLM.
 
 I am looking for a PhD position in Natural Language Processing.
 
